@@ -1,0 +1,146 @@
+body{
+    width:90%;
+    margin: auto;
+}
+#display{
+    display: flex;
+
+}
+#imggros{
+    padding-left: 20px;
+    padding-right:20px;
+}
+#img1{
+    border-radius:50%;
+    margin-left:50px;
+    margin-bottom:20px
+}
+#img2{
+    border-radius:50%;
+    margin-left:70px;
+}
+#img3{
+    border-radius:50%;
+    margin-left:5px;
+}
+/* #lien1{
+    border:2px solid yellow;
+    /* border-radius: 20%; 
+    padding:2.5px;
+    /* margin: 10px; 
+    background-color: yellow;
+} */
+.s2{
+    /* width:85%;
+    margin:auto; */
+    background-color: lightgrey;
+    padding:50px;
+}
+.s3{
+    background-color: rgb(250, 250, 111);
+   height: 400px;
+   padding-top:50px;
+   /* color:lightgrey */
+}
+.s4{
+    background-color: lightgrey;
+    /* background-color: rgba(250, 79, 0, 0.808);   */
+    padding-top:20px;
+    /* margin-top:-297px; */
+    padding-bottom: 20px;
+}
+.s5{
+    /* background-color: rgba(255, 68, 0, 0.664);   */
+    padding: 20px;
+    /* background-color: lightgrey; */
+    background-color: lightgrey;
+    height:530px;
+}
+.s6{
+    width:85%;
+    margin: -400px 0px 0px 80px;
+    background-color: rgb(250, 250, 111);
+    padding:50px 0px 0px 20px ;
+}
+.at1{
+    width:75%;
+    text-align: center;
+    margin:auto;
+}
+.at3{
+    text-align: center;
+    color:orangered;
+    font-size: larger;
+    text-transform: uppercase;
+    width:70%;
+    margin: auto;
+}
+/* .at4{
+    padding: 20px;
+} */
+.as1{
+    width:50%;
+    margin: auto;
+}
+.as6{
+    font-size: large;
+    /* width:20%; */
+    margin: auto;
+    /* background-color: rgb(250, 250, 111); */
+    /* background-color: lightgrey; */
+    padding: 20px; 
+    color:grey;
+}
+
+.h1{
+    font-size: 300%;
+    color:yellow;
+    text-transform:capitalize;
+}
+.dee{
+    padding-top:280px;
+    background-color: rgba(250, 79, 0, 0.808);
+    margin-top:-297px;
+    color:lightgrey;
+    text-align: center;
+    text-transform: uppercase;
+}
+.grille{
+    padding:40px 0px 40px 0px;
+    margin:-200px 0px 0px 90px;
+    
+    display:grid;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: center;
+    width:85%;
+    grid-gap: 10px;
+    /* background-color: lightgrey; */
+    /* background-color: lightgrey; */
+    /* background-color: rgba(255, 68, 0, 0.404);   */
+    /*background-color:black;*/
+}
+.gril{
+    /*padding:40px 0px 40px 0px;
+    margin:-200px 0px 0px 90px; */
+    
+    display:grid;
+    grid-template-columns: repeat(2, 49%);
+    justify-content: center;
+    /* width:85%; */
+    grid-gap: 10px;
+    /* background-color: lightgrey; */
+    /* background-color: white; */
+    /*background-color:black;*/
+}
+.gril-iten{
+    width:98%;
+    height:300px;
+}
+.grille-item{
+    width:98%;
+    height:200px;
+}
+/* .point{
+    font-size: 4000%;
+    margin: -500px 0px -300px 0px; /*top right bottom left
+} */
